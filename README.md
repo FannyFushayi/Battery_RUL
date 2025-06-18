@@ -60,7 +60,7 @@ Each version is stored in a separate folder with associated scripts and notebook
 ## 👨‍🔬 Author
 
 Fanny Fushayi  
-Electrical Engineer | ML Enthusiast | Go-Kart Whisperer
+Electrical Engineer | ML Enthusiast | Independant "Researcher"
 
 ---
 
