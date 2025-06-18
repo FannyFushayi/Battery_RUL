@@ -26,7 +26,7 @@ To systematically investigate model behavior under different assumptions, this p
 - **`ver_2`** – Battery-wise split. Each model is trained on a subset of batteries and tested on unseen batteries. This tests generalization to new batteries.
 - **`ver_3`** – End-of-life (EOL) split. For each battery, the last 200 cycles are held out for testing. This mimics a realistic predictive maintenance scenario: forecasting how much life remains based on earlier usage.
 
-Each version is stored in a separate folder with associated scripts and notebooks for reproducibility.
+Each version is stored in a separate folder (actually not anymore folders feel like hard work for some reason) with associated scripts and notebooks for reproducibility.
 
 ---
 
