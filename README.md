@@ -43,7 +43,7 @@ Each version is stored in a separate folder (actually not anymore folders feel l
 ## ⚠️ Known Limitations
 
 - The HNEI dataset, while rich, represents *accelerated cycling tests* under lab conditions. This may not fully reflect real-world battery usage patterns.
-- The impedance measurements were collected using **Electrochemical Impedance Spectroscopy (EIS)**, which is powerful but may not be practical for all applications. Other methods such as **Pseudo-Random Impulse Sequence (PRIS)** could potentially offer different insights, but are not included here.
+- There is no impedence or Temperature Related Data 
 - The dataset does not explicitly include time stamps, which limits the use of time-series models unless surrogate features (e.g., cycle count or duration) are constructed.
 
 ---
@@ -66,4 +66,4 @@ Electrical Engineer | ML Enthusiast | Independant "Researcher"
 
 ## 📜 License
 
-MIT License (or your license of choice)
+MIT License (or your license of choice, should be prestigious)
